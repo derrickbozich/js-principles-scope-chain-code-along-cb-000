@@ -10,9 +10,9 @@ function upperCaseCustomerName() {
 // }
 //
 //
-// function setBestCustomer(){
-//   bestCustomer = 'not bob'
-// }
+function setBestCustomer(){
+  bestCustomer = 'not bob'
+}
 //
 // function overWriteBestCustomer(newFavorite){
 //   bestCustomer = newFavorite
